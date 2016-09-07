@@ -1,3 +1,24 @@
+<<<<<<< HEAD
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Site Settings
+locale                   : "en"
+title                    : "My Test site"
+title_separator          : "-"
+name                     : "Derek J. Bernard"
+description              : "An amazing website."
+url                      : "http://127.0.0.1:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+=======
 ---
 title: Site Title
 timezone: UTC
@@ -17,6 +38,7 @@ baseurl:
 repository: 
 teaser: 
 words_per_minute: 200
+>>>>>>> cdbb7e2bd2cef30b67fb899ec99a0cd779bbdd4f
 comments:
   provider: 
   disqus:
@@ -72,6 +94,39 @@ analytics:
   google:
     tracking_id: 
 author:
+<<<<<<< HEAD
+  name             : "Your Name"
+  avatar           : "https://s.gravatar.com/avatar/97e66068792482192aff00dc87d0358d?s=400"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
+  email            :
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+
+
+# Reading Files
+=======
   name: Your Name
   avatar: bio-photo.jpg
   bio: I am an amazing person.
@@ -100,6 +155,7 @@ author:
   weibo: 
   xing: 
   youtube: 
+>>>>>>> cdbb7e2bd2cef30b67fb899ec99a0cd779bbdd4f
 include:
 - ".htaccess"
 - _pages
